@@ -8,4 +8,5 @@ css
 *{
 background-color:white;
 padding: 0;
+border: black solid;
 }
