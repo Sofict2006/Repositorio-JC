@@ -10,3 +10,7 @@ background-color:white;
 padding: 0;
 border: black solid;
 }
+
+botton{
+color: #fff;
+}
