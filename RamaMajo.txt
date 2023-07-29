@@ -17,5 +17,6 @@ color: #fff;
 
 .div{
 margin-left;
+position: relative;
 }
 
