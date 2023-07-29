@@ -7,4 +7,5 @@ body
 css
 *{
 background-color:white;
+padding: 0;
 }
