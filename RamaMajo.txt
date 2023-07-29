@@ -1,0 +1,22 @@
+Hola 
+
+Html
+head
+body
+
+css
+*{
+background-color:white;
+padding: 0;
+border: black solid;
+}
+
+.botton{
+color: #fff;
+}
+
+.div{
+margin-left;
+position: relative;
+}
+
