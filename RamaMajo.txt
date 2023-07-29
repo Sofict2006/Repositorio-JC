@@ -3,3 +3,8 @@ Hola
 Html
 head
 body
+
+css
+*{
+background-color:black;
+}
